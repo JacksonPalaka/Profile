@@ -70,13 +70,13 @@ a:hover{
 }
 .baseball{
     width:25%;
-    float:left;
+    float:right;
     padding-right:30px;
     font-weight: bold;
 }
 .web-dev{
     width:25%;
-    float:right;
+    float:left;
     margin-left:30px;
     border-radius: 50%;
     font-weight: bold;
